@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📊 **this week i spent my time on:**
 
+📈 my github stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smriad&show_icons=true&theme=gotham" alt="smriad" />
