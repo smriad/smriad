@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smriad&show_icons=true&theme=gotham" alt="smriad" /></p>
 
-<p align="center"> ![Visitor Count](https://profile-counter.glitch.me/smriad/count.svg) </p>
+<p align="center"> 
+  
+ ![Visitor Count](https://profile-counter.glitch.me/smriad/count.svg) 
+
+</p>
   
 
