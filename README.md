@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smriad&show_icons=true&theme=gotham" alt="smriad" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smriad&show_icons=true&theme=gotham" alt="smriad" /></p>
 
-<p align="center"> ![Visitor Count](https://profile-counter.glitch.me/smriad/count.svg) />
+<p align="center"> ![Visitor Count](https://profile-counter.glitch.me/smriad/count.svg) /p>
   
 
