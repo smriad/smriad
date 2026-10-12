@@ -59,15 +59,11 @@ collaboration, and interesting technical challenges.
 
 ---
 
-<!-- Existing Holopin badge: preserved -->
-
 <div align="center">
 
 [![An image of @smriad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smriad)](https://holopin.io/@smriad)
 
-<!-- Existing visitor counter: preserved -->
-
-![Visitor Count](https://profile-counter.glitch.me/smriad/count.svg)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsmriad%2Fsmriad&label=VISITORS&labelColor=%23161b22&countColor=%23238636&style=flat-square)
 
 <sub>Build with intent. Automate with intelligence. Keep shipping.</sub>
 
