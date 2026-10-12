@@ -6,29 +6,46 @@
 
 <p><code>Better Systems<br />Bigger Impact</code></p>
 
-### ⌘ Skills / Tech Stacks
+### `</>` Skills / Tech Stacks
 
-<img src="https://skillicons.dev/icons?i=php,python,nodejs,typescript,laravel,react,postgres,docker,aws" alt="PHP, Python, Node.js, TypeScript, Laravel, React, PostgreSQL, Docker, and AWS" />
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
 
 ---
 
 ### ⚡ Now Building
 
-| AI Agents &amp; Automation | SaaS &amp; API Architecture | Cloud &amp; Platform Engineering |
-|:--|:--|:--|
-| Intelligent agents and automation workflows that streamline business processes. | Scalable SaaS platforms, robust APIs, and modern backend systems. | Cloud-native infrastructure, DevOps pipelines, and reliable platforms. |
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>🤖 AI Agents &amp; Automation</strong><br /><br />Intelligent agents and automation workflows that streamline business processes.</td>
+    <td width="33%" valign="top"><strong>☁️ SaaS &amp; API Architecture</strong><br /><br />Scalable SaaS platforms, robust APIs, and modern backend systems.</td>
+    <td width="33%" valign="top"><strong>🛠️ Cloud &amp; Platform Engineering</strong><br /><br />Cloud-native infrastructure, DevOps pipelines, and reliable platforms.</td>
+  </tr>
+</table>
 
-### ⌘ Featured Work
+### `</>` Featured Work
 
-| AI-powered systems | SaaS platform engineering | Open-source experiments |
-|:--|:--|:--|
-| Exploring LLMs, agentic workflows, chatbots, and intelligent automation. | Scalable architecture, APIs, database design, and cloud infrastructure. | Useful tools and experiments in web, automation, and developer productivity. |
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>AI-powered systems</strong><br /><br />Exploring LLMs, agentic workflows, chatbots, and intelligent automation.</td>
+    <td width="33%" valign="top"><strong>SaaS platform engineering</strong><br /><br />Scalable architecture, APIs, database design, and cloud infrastructure.</td>
+    <td width="33%" valign="top"><strong>Open-source experiments</strong><br /><br />Useful tools and experiments in web, automation, and developer productivity.</td>
+  </tr>
+</table>
 
 ### ▥ Contributions
 
 <div align="center">
   <img src="https://ghchart.rshah.org/34d399/smriad" alt="SM Riad's GitHub contribution graph" width="100%" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=smriad&show_icons=true&theme=gotham&hide_border=true" alt="GitHub statistics" />
 </div>
 
 ---
