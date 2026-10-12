@@ -2,25 +2,13 @@
   <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1600&h=300&q=85" alt="Mountain range at dusk" width="100%" />
 </div>
 
-<table>
-  <tr>
-    <td width="27%" valign="top">
-      <img src="https://github.com/smriad.png?size=240" width="180" alt="SM Riad's GitHub avatar" />
-      <h2>SM Riad</h2>
-      <p><a href="https://github.com/smriad">@smriad</a></p>
-      <p><strong>Technology Executive<br />Software Architect<br />AI Builder</strong></p>
-      <p>Building scalable SaaS, APIs, AI-powered systems, and cloud platforms that solve real problems.</p>
-      <p>📍 Dhaka, Bangladesh<br />🏢 Head of Technology, Quest BDC PLC<br />🔗 <a href="https://smriad.github.io">smriad.github.io</a><br />✉️ <a href="mailto:smriad@gmail.com">smriad@gmail.com</a></p>
-    </td>
-    <td valign="top">
-      <p><code>$ whoami</code><br /><strong>SM Riad</strong><br />Technology Executive · Software Architect · AI Builder</p>
-      <p><code>Better Systems<br />Bigger Impact</code></p>
-      <hr />
-      <h3>⌘ Skills / Tech Stacks</h3>
-      <img src="https://skillicons.dev/icons?i=php,python,nodejs,typescript,laravel,react,postgres,docker,aws" alt="PHP, Python, Node.js, TypeScript, Laravel, React, PostgreSQL, Docker, and AWS" />
-    </td>
-  </tr>
-</table>
+<p><code>$ whoami</code><br /><strong>SM Riad</strong><br />Technology Executive · Software Architect · AI Builder</p>
+
+<p><code>Better Systems<br />Bigger Impact</code></p>
+
+### ⌘ Skills / Tech Stacks
+
+<img src="https://skillicons.dev/icons?i=php,python,nodejs,typescript,laravel,react,postgres,docker,aws" alt="PHP, Python, Node.js, TypeScript, Laravel, React, PostgreSQL, Docker, and AWS" />
 
 ---
 
