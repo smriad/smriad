@@ -42,12 +42,6 @@
   </tr>
 </table>
 
-### ▥ Contributions
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/34d399/smriad" alt="SM Riad's GitHub contribution graph" width="100%" />
-</div>
-
 ---
 
 <div align="center">
